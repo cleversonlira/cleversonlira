@@ -29,5 +29,5 @@ I'm studying Systems Analysis and Development, and my focus is on the following 
 "Just start, and enjoy the process." 
 
 <div>
-![Snake animation](https://github.com/Liraballerini/Liraballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/cleversonlira/cleversonlira/blob/output/github-contribution-grid-snake.svg)
 </div>
