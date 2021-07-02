@@ -26,8 +26,4 @@ Technology professional for 5 years having worked in the public and private sect
 
 I'm studying Systems Analysis and Development, and my focus is on the following technologies: Java (Back-End) and Front-End JavaScript, HTML5 and CSS3.
 
-"Just start, and enjoy the process." 
-
-<div>
-![Snake animation](https://github.com/cleversonlira/cleversonlira/blob/output/github-contribution-grid-snake.svg)
-</div>
+"Just start, and enjoy the process."
