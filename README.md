@@ -1,16 +1,32 @@
-### Hi there 👋
+# Lira
 
-<!--
-**cleversonlira/cleversonlira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Technology Student
 
-Here are some ideas to get you started:
+[![Twitter Badge](https://img.shields.io/badge/-@liradev_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/liradev_)](https://twitter.com/liradev_) [![Linkedin Badge](https://img.shields.io/badge/-CleversonLira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleversonlira//)](https://www.linkedin.com/in/cleversonlira/) [![Gmail Badge](https://img.shields.io/badge/-cleverson_lira@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleverson_lira@outlook.com)](mailto:cleverson_lira@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+  <a href="https://github.com/cleversonlira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleversonlira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonlira&layout=compact&langs_count=16&theme=dark"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Csharp" height="30" width="40"      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-origin   al.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
+<div> 
+  <a href="https://instagram.com/cs_lira" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:cleverson_lira@outlook.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/cleversonlira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+ 
+Technology professional for 5 years having worked in the public and private sectors. I am in constant personal and professional development.
+
+I'm studying Systems Analysis and Development, and my focus is on the following technologies: Java (Back-End) and Front-End JavaScript, HTML5 and CSS3.
+
+"Just start, and enjoy the process." 
+
+<div>
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
