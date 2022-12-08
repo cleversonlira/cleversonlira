@@ -26,4 +26,4 @@
  
 Technology professional for 5 years having worked in the public and private sectors. I am in constant personal and professional development.
 
-I'm studying Systems Analysis and Development, and my focus is on the following technologies: Java (Back-End) and Front-End JavaScript, HTML5 and CSS3.
+I'm a Software Developer, and my focus is the Java language and other back-end technologies.
