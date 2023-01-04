@@ -4,7 +4,7 @@
 
 "Just start, and enjoy the process."
 
-[![Twitter Badge](https://img.shields.io/badge/-@liradev_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/liradev_)](https://twitter.com/liradev_) [![Linkedin Badge](https://img.shields.io/badge/-CleversonLira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleversonlira//)](https://www.linkedin.com/in/cleversonlira/) [![Gmail Badge](https://img.shields.io/badge/-cleverson_lira@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleverson_lira@outlook.com)](mailto:cleverson_lira@outlook.com)
+[![Twitter Badge](https://img.shields.io/badge/-@liradev_-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/liradev_)](https://twitter.com/liradev_) [![Linkedin Badge](https://img.shields.io/badge/-CleversonLira-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleversonlira//)](https://www.linkedin.com/in/cleversonlira/) [![Gmail Badge](https://img.shields.io/badge/-cleversonslira@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleversonslira@gmail.com)](mailto:cleversonslira@gmail.com)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lira-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
