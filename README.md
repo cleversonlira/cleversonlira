@@ -1,6 +1,6 @@
 # Lira
 
-### Technology Student
+### Programmer
 
 "Just start, and enjoy the process."
 
