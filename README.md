@@ -25,7 +25,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleversonlira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleversonlira&layout=compact&langs_count=16&theme=dark"/>
 </div>
- 
-Technology professional for 5 years having worked in the public and private sectors. I am in constant personal and professional development.
 
-I'm a Software Developer, and my focus is the Java language and other back-end technologies.
+I'm a Software Developer, my focus is the Java language and other back-end technologies.
