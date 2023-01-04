@@ -8,7 +8,8 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Lira-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Lira-Java" height="30" width="30" src="https://quarkus.io/favicon.ico"> 
+  <img align="center" alt="Lira-Java" height="30" width="30" src="https://quarkus.io/favicon.ico">
+  <img align="center" alt="Lira-Java" height="30" width="30" src="https://spring.io/images/spring-initializr-4291cc0115eb104348717b82161a81de.svg">  
   <img align="center" alt="Lira-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lira-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lira-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
